@@ -13,10 +13,10 @@
  *+ require devise_bootstrap_views
  *= require_tree .
  *= require_self
- */
-/*
  *= require font-awesome
  */
+
+
 
  .no-padding {
    padding: 0 !important;
